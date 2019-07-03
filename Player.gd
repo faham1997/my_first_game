@@ -4,7 +4,7 @@ var velocity=Vector2()
 
 const SPEED= 30
 const GRAVITY = 10
-const JUMP =-200
+const JUMP =-260
 const FLOOR = Vector2(0,-1)
 
 var on_ground =false
